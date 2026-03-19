@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "233b654eb38e287d",
+        "id": "b18654c74b16f001",
         "type": "tabs",
         "children": [
           {
-            "id": "b49f8c68601d6a26",
+            "id": "ea59f59a9e28550f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Andrew Ng.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Andrew Ng"
+              "title": "New tab"
             }
           }
         ]
@@ -194,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b49f8c68601d6a26",
+  "active": "569b802892383ebd",
   "lastOpenFiles": [
-    "Andrew Ng.md"
+    "Andrew Ng.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification"
   ]
 }
