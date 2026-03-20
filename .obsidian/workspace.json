@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera - Supervised Machine Learning - Regression and Classification/Feature Scaling & Learning Rate.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feature Scaling & Learning Rate"
+              "title": "README"
             }
           }
         ],
@@ -253,6 +253,9 @@
   },
   "active": "168e3a8011e1eb3b",
   "lastOpenFiles": [
+    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression with scikit learn.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Feature Engineering & Polynomial Regression.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Feature Scaling & Learning Rate.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Multiple Linear Regression.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Python, NumPy, and Vectorization.md",
