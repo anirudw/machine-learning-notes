@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Gradient Descent"
             }
           }
         ],
@@ -253,6 +253,7 @@
   },
   "active": "168e3a8011e1eb3b",
   "lastOpenFiles": [
+    "README.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression with scikit learn.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Feature Engineering & Polynomial Regression.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Feature Scaling & Learning Rate.md",
@@ -264,7 +265,6 @@
     "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Univariate Linear Regression.md",
     "Untitled",
-    "README.md",
     "Andrew Ng.md",
     "Coursera - Supervised Machine Learning - Regression and Classification"
   ]
