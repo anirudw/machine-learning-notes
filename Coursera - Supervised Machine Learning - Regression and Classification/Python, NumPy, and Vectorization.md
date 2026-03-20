@@ -358,3 +358,8 @@ np.mean(a)
 np.dot(a, b)
 
 ```
+
+---
+## Tags
+
+#python #numpy

@@ -107,3 +107,8 @@ def gradient_descent(X, y, w_in, b_in, cost_function, gradient_function, alpha, 
 - `w` has shape `(n,)`
 - `np.dot(X[i], w)` returns a scalar
 - `X @ w` gives predictions for all examples
+
+---
+## Tags
+
+#regression #linear_regression #multiple_linear_regression

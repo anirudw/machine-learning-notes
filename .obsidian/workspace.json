@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b18654c74b16f001",
+        "id": "c7cdeacacdefb04a",
         "type": "tabs",
         "children": [
           {
-            "id": "ea59f59a9e28550f",
+            "id": "c160affdf8da919b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coursera - Supervised Machine Learning - Regression and Classification/Univariate Linear Regression.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Univariate Linear Regression"
-            }
-          },
-          {
-            "id": "97c2469ce813f0c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coursera - Supervised Machine Learning - Regression and Classification/Univariate Linear Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Univariate Linear Regression"
-            }
-          },
-          {
-            "id": "25a945d222621360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cost Function"
-            }
-          },
-          {
-            "id": "2bd95fc78f48c858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gradient Descent"
-            }
-          },
-          {
-            "id": "168e3a8011e1eb3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gradient Descent"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,19 +194,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "168e3a8011e1eb3b",
+  "active": "c160affdf8da919b",
   "lastOpenFiles": [
+    "Pasted image 20260321014452.png",
+    "Pasted image 20260321014347.png",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Classification - Introduction.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function for Logistic Regression.md",
     "README.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression with scikit learn.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Decision Boundary.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Feature Engineering & Polynomial Regression.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Feature Scaling & Learning Rate.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent for Logistic Regression.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression with scikit learn.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Loss.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Multiple Linear Regression.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Python, NumPy, and Vectorization.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Univariate Linear Regression.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 822429.crdownload",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 74681.crdownload",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 637230.crdownload",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 1800.crdownload",
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 134651.crdownload",
     "Coursera - Supervised Machine Learning - Regression and Classification/C1_W2_Lab01_Python_Numpy_Vectorization_Notes (1).md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Univariate Linear Regression.md",
     "Untitled",
     "Andrew Ng.md",
     "Coursera - Supervised Machine Learning - Regression and Classification"

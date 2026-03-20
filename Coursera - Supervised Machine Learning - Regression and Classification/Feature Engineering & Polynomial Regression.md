@@ -100,3 +100,7 @@ X = np.c_[x, x**2, x**3, x**4, x**5, x**6, x**7, x**8, x**9, x**10, x**11, x**12
 - Polynomial features turn one input into many useful inputs
 - Feature scaling is critical when polynomial terms have very different ranges
 - The model remains linear in the parameters even after feature transformation
+
+---
+## Tags
+#regression #polynomial_regression 

@@ -76,3 +76,8 @@ b = model.intercept_
 - Use `LinearRegression` when you want a fast, standard implementation
 - The underlying model remains the same linear form
 - The library handles optimization for you
+
+---
+## Tags
+
+#regression #linear_regression  

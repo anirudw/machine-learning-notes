@@ -80,7 +80,6 @@ $$
 4. Return $J$
 
 ---
-
 ## 6. Code
 
 ```python
@@ -95,3 +94,10 @@ def compute_cost(x, y, w, b):
         
     total_cost = cost_sum / (2 * m)
     return total_cost
+    
+```
+
+---
+## Tags
+
+#regression #linear_regression 

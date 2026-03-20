@@ -130,3 +130,9 @@ def gradient_descent(x, y, w_in, b_in, alpha, num_iters):
         b = b - alpha * dj_db
 
     return w, b
+```
+
+---
+## Tags
+
+#regression 

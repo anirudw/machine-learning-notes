@@ -111,3 +111,8 @@ $$
 - Feature scaling improves conditioning
 - Z-score normalization is the standard scaling method used here
 - Scaled features make gradient descent converge faster and more reliably
+
+---
+## Tags
+
+#regression 

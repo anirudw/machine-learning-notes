@@ -63,3 +63,9 @@ def compute_model_output(x, w, b):
         f_wb[i] = w * x[i] + b
         
     return f_wb
+```
+
+---
+## Tags
+
+#regression #linear_regression 
