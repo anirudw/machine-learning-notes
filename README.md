@@ -1,3 +1,3 @@
 ## Contents
 
-1. Coursera - Supervised Machine Learning - Regression and Classification -> [[_Index]]
+1. Coursera - Supervised Machine Learning - Regression and Classification 
