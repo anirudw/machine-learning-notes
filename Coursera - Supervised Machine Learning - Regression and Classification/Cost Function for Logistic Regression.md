@@ -20,7 +20,7 @@ $$
 g(z) = \frac{1}{1 + e^{-z}}
 $$
 
-## Logistic loss for one example
+## [[Logistic Loss]] for one example
 $$
 \text{loss}(f_{w,b}(x^{(i)}), y^{(i)}) =
 -y^{(i)} \log(f_{w,b}(x^{(i)}))

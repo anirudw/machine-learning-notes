@@ -65,6 +65,12 @@ def compute_model_output(x, w, b):
     return f_wb
 ```
 
+
+## Extras
+
+- Easier Implementation through [[Linear Regression with scikit learn]]
+- Variations - [[Multiple Linear Regression]] 
+
 ---
 ## Tags
 

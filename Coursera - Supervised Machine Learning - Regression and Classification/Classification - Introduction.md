@@ -51,7 +51,7 @@ f(x) = g(z) = sigmoid(w · x + b)
 
 ---
 
-## Decision Boundary
+## [[Decision Boundary]]
 
 Threshold (usually 0.5):
 

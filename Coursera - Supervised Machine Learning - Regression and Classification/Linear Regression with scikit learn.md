@@ -1,5 +1,5 @@
 ## Goal
-- Fit a linear regression model using `scikit-learn`
+- Fit a [[Linear Regression]] model using `scikit-learn`
 - Avoid manual cost/gradient descent implementation
 - Predict outputs and inspect learned parameters
 
@@ -80,4 +80,4 @@ b = model.intercept_
 ---
 ## Tags
 
-#regression #linear_regression  
+#regression #linear_regression  #scikit_learn 

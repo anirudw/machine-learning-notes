@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function for Logistic Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Cost Function for Logistic Regression"
             }
           }
         ]
@@ -196,22 +196,25 @@
   },
   "active": "c160affdf8da919b",
   "lastOpenFiles": [
+    "Coursera - Supervised Machine Learning - Regression and Classification/Classification - Introduction.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function for Logistic Regression.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Loss.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Regression with scikit learn.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression with scikit learn.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Feature Scaling & Learning Rate.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Decision Boundary.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Regularization.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Python, NumPy, and Vectorization.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Overfitting.md",
+    "README.md",
     "Pasted image 20260321014452.png",
     "Pasted image 20260321014347.png",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Classification - Introduction.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function for Logistic Regression.md",
-    "README.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Decision Boundary.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Feature Engineering & Polynomial Regression.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Feature Scaling & Learning Rate.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent for Logistic Regression.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression with scikit learn.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Loss.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Multiple Linear Regression.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Python, NumPy, and Vectorization.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Univariate Linear Regression.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 822429.crdownload",
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 74681.crdownload",
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 637230.crdownload",

@@ -1,5 +1,5 @@
 ## Goal
-- Run gradient descent on a multi-variable linear regression model
+- Run gradient descent on a multi-variable [[Linear Regression]] model
 - See how learning rate affects convergence
 - Speed up convergence using feature scaling
 - Use z-score normalization
@@ -27,7 +27,7 @@ $$
 \mathbf{f} = Xw + b
 $$
 
-## Gradient descent updates
+## [[Gradient Descent]] updates
 For each parameter:
 $$
 w_j := w_j - \alpha \frac{\partial J(w,b)}{\partial w_j}
@@ -82,7 +82,8 @@ Without scaling:
 With scaling:
 - updates are more balanced across parameters
 
-## Vectorized gradient descent
+##  gradient descent
+
 ```python
 for i in range(iterations):
     f = X @ w + b
@@ -95,6 +96,7 @@ for i in range(iterations):
     b -= alpha * dj_db
 ```
 
+Reference : [[Python, NumPy, and Vectorization]]
 ## Useful helper formulas
 Mean:
 $$
