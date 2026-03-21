@@ -1,6 +1,6 @@
 ## 1. Objective
 
-Minimize the cost function:
+Minimize the [[Cost Function]]:
 
 $$
 J(w,b) = \frac{1}{2m} \sum_{i=1}^{m} \left( f_{w,b}(x^{(i)}) - y^{(i)} \right)^2

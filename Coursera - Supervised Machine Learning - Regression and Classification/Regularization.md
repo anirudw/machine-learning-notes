@@ -30,7 +30,7 @@ $$
 b := b - \alpha \cdot \frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^{(i)}) - y^{(i)})
 $$
 
-## Logistic regression with regularization
+## [[Logistic Regression]] with regularization
 $$
 J(w,b) = -\frac{1}{m} \sum_{i=1}^{m} \left[y^{(i)} \log(f_{w,b}(x^{(i)})) + (1-y^{(i)}) \log(1-f_{w,b}(x^{(i)}))\right] + \frac{\lambda}{2m} \sum_{j=1}^{n} w_j^2
 $$
