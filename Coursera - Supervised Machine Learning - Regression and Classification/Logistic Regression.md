@@ -93,3 +93,8 @@ $$
 $$
 \text{Linear Model} \rightarrow \text{Sigmoid} \rightarrow \text{Probability}
 $$
+
+---
+## Tags
+
+#classification #logistic_regression 

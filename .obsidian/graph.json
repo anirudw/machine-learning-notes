@@ -36,10 +36,10 @@
       }
     },
     {
-      "query": "",
+      "query": "file:_Index",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 34047
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2364705005995067,
-  "close": true
+  "scale": 0.38548777389386796,
+  "close": false
 }

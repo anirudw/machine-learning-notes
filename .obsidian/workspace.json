@@ -25,14 +25,78 @@
             "id": "76d294e1475c8442",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b9da153a0acb8bef",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Scaler/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "5e7a7672bebb85c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scaler/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "db152ee74ec65e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "b77c0332734e8db3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROMPTS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROMPTS"
+            }
+          },
+          {
+            "id": "a3072d647b068fd2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           },
           {
@@ -50,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +273,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,14 +288,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76d294e1475c8442",
+  "active": "5e7a7672bebb85c2",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Scaler/Notes.md",
+    "PROMPTS.md",
+    "Rveda Environment.md",
+    "Scaler",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Regression.md",
+    "README.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/_Index.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Regularization.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Regression.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
-    "README.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent for Logistic Regression.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function for Logistic Regression.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Classification - Introduction.md",
@@ -252,7 +322,6 @@
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 1800.crdownload",
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 134651.crdownload",
     "Coursera - Supervised Machine Learning - Regression and Classification/C1_W2_Lab01_Python_Numpy_Vectorization_Notes (1).md",
-    "Untitled",
     "Andrew Ng.md",
     "Coursera - Supervised Machine Learning - Regression and Classification"
   ]
