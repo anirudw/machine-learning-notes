@@ -39,6 +39,16 @@ Notes and documentation repository for everything ML/AI related that I do.
 ## Coursera: Advanced Learning Algorithms
 
 - Folder: [Coursera - Advanced Learning Algorithms](<Coursera - Advanced Learning Algorithms/>)
+- Course index: [_Index.md](<Coursera - Advanced Learning Algorithms/_Index.md>)
+
+### Neural Networks
+
+1. [Neural Networks - Introduction](<Coursera - Advanced Learning Algorithms/Neural Networks - Introduction.md>)
+2. [Neural Network Layers and Computations](<Coursera - Advanced Learning Algorithms/Neural Network Layers and Computations.md>)
+3. [Forward Propagation](<Coursera - Advanced Learning Algorithms/Forward Propagation.md>)
+4. [TensorFlow & Keras](<Coursera - Advanced Learning Algorithms/TensorFlow & Keras.md>)
+5. [TensorFlow - Implementation](<Coursera - Advanced Learning Algorithms/TensorFlow - Implementation.md>)
+6. [Numpy Implementation for Neural Networks](<Coursera - Advanced Learning Algorithms/Numpy Implementation for Neural Networks.md>)
 
 ---
 

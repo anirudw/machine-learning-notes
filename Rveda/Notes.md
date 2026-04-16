@@ -27,10 +27,6 @@ Others in Dockerfile
 
 Add the line to docker file for proper UI display in hugging face
 
-
-
-
-
 ## RUNNING
 
 `docker build -t rveda:latest .`

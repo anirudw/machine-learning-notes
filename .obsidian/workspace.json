@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e179e63b836f44e",
+        "id": "aeecfc6d6ed61c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "061fd0d54fec5e25",
+            "id": "642773f906e8556b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,16 +191,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061fd0d54fec5e25",
+  "active": "642773f906e8556b",
   "lastOpenFiles": [
-    "Rveda/Rveda Environment.md",
-    "Rveda/Tasks.md",
-    "Rveda/PROMPTS.md",
-    "Rveda/Notes.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Classification - Introduction.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/_Index.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Feature Scaling & Learning Rate.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression.md",
     "Coursera - Advanced Learning Algorithms/Neural Networks - Introduction.md",
+    "Coursera - Advanced Learning Algorithms/_Index.md",
     "Coursera - Advanced Learning Algorithms/Neural Network Layers and Computations.md",
     "Coursera - Advanced Learning Algorithms/Forward Propagation.md",
+    "Rveda/PROMPTS.md",
+    "Rveda/Notes.md",
+    "Coursera - Advanced Learning Algorithms/Numpy Implementation for Neural Networks.md",
+    "Coursera - Advanced Learning Algorithms/TensorFlow - Implementation.md",
+    "Coursera - Advanced Learning Algorithms.md",
+    "Rveda/Rveda Environment.md",
+    "Rveda/Tasks.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Classification - Introduction.md",
     "Coursera - Advanced Learning Algorithms/TensorFlow & Keras.md",
     "C2_W1_Lab01_Neurons_and_Layers_Notes.md",
     "Unconfirmed 388786.crdownload",
@@ -214,13 +222,6 @@
     "PROMPTS.md",
     "Rveda Environment.md",
     "Scaler",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Regression.md",
-    "README.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/_Index.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent for Logistic Regression.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function for Logistic Regression.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Loss.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Regression with scikit learn.md",
     "Pasted image 20260321014452.png",
     "Pasted image 20260321014347.png",
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 822429.crdownload",
