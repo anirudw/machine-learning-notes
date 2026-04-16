@@ -2,13 +2,7 @@
 
 Notes and documentation repository for everything ML/AI related that I do.
 
-## Rveda: Meta PyTorch OpenEnv Hackathon x SST
-
-Rveda was built for the Meta PyTorch OpenEnv Hackathon x SST. It is an OpenEnv reinforcement-learning environment for agentic medical coding, where an agent must search, inspect, and submit ICD-10 codes through an auditable workflow.
-
-- [Rveda Environment](<Rveda/Rveda Environment.md>)
-- GitHub: https://github.com/anirudw/rveda
-- Hugging Face Space: https://huggingface.co/spaces/anirudw/rveda
+---
 
 ## Coursera: Supervised Machine Learning - Regression and Classification
 
@@ -41,3 +35,17 @@ Rveda was built for the Meta PyTorch OpenEnv Hackathon x SST. It is an OpenEnv r
 
 1. [Python, NumPy, and Vectorization](<Coursera - Supervised Machine Learning - Regression and Classification/Python, NumPy, and Vectorization.md>)
 2. [Overfitting](<Coursera - Supervised Machine Learning - Regression and Classification/Overfitting.md>)
+
+## Coursera: Advanced Learning Algorithms
+
+- Folder: [Coursera - Advanced Learning Algorithms](<Coursera - Advanced Learning Algorithms/>)
+
+---
+
+## Rveda: Meta PyTorch OpenEnv Hackathon x SST
+
+Rveda was built for the Meta PyTorch OpenEnv Hackathon x SST. It is an OpenEnv reinforcement-learning environment for agentic medical coding, where an agent must search, inspect, and submit ICD-10 codes through an auditable workflow.
+
+- [Rveda Environment](<Rveda/Rveda Environment.md>)
+- GitHub: https://github.com/anirudw/rveda
+- Hugging Face Space: https://huggingface.co/spaces/anirudw/rveda

@@ -40,3 +40,8 @@ Add the line to docker file for proper UI display in hugging face
 
 ## REQUIREMENTS
 OpenAI test
+
+---
+## Tags
+
+#rveda #projects #python

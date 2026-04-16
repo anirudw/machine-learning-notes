@@ -192,3 +192,8 @@ Rveda is a benchmark environment, not a production medical coding system.
 - Make hard tasks depend more strongly on exclusions, conflicts, and evidence trails.
 - Add tests for exact match, family match, unrelated codes, Excludes1 flags, timeout behavior, and response shape.
 - Keep the project README short, but keep this note as the mental model and implementation map.
+
+---
+## Tags
+
+#rveda #python #openenv 

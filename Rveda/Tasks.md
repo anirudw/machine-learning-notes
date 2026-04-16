@@ -40,8 +40,7 @@ Current public implementation:
 
 `CODEX`
 
- Plan                                                                                                                 
-                                                                                                                       
+ Plan                                                                                                                        
   1. Fix session semantics first.                                                                                      
      The biggest product risk is that plain HTTP /reset and /step do not share state under the OpenEnv wrapper. Decide 
      which interaction mode the hackathon grader uses.                                                                 
@@ -99,18 +98,15 @@ Current public implementation:
     Success criterion: each task can be targeted and scored predictably in tests and demos.                            
                                                                                                                        
   7. Align API contract with grader expectations.                                                                      
-     Keep /step returning exactly:                                                                                     
-                                                                                                                       
+     Keep /step returning exactly                                                                                                               
   - observation                                                                                                        
   - reward                                                                                                             
   - done                                                                                                               
   - info                                                                                                               
     Do not leak extra top-level keys.                                                                                  
-    Make sure info is always present, even if empty.                                                                   
-                                                                                                                       
-  8. Build a proper automated test suite.                                                                              
-     Add pytest coverage for:                                                                                          
-                                                                                                                       
+    Make sure info is always present, even if empty                                                                                                               
+  1. Build a proper automated test suite.                                                                              
+     Add pytest coverage for:                                                                                                                                                                                                           
   - task reset by ID                                                                                                   
   - exact reward 1.0                                                                                                   
   - partial reward 0.5                                                                                                 
@@ -119,48 +115,48 @@ Current public implementation:
   - reward always within [0.0, 1.0]                                                                                    
   - /step response shape exactness                                                                                     
   - search latency threshold                                                                                           
-    Also add one end-to-end client-session test using the OpenEnv client path.                                         
-                                                                                                                       
-  9. Harden deployment validation.                                                                                     
-     Before every push:                                                                                                
-                                                                                                                       
+    Also add one end-to-end client-session test using the OpenEnv client path.
+  1. Harden deployment validation.
+     Before every push:                                                                                                                                                                                                
   - openenv validate                                                                                                   
   - local smoke test                                                                                                   
   - Docker build                                                                                                       
   - readiness audit against deployed Space                                                                             
-    Recommended sequence:                                                                                              
-                                                                                                                       
-  openenv validate                                                                                                     
+    Recommended sequence:                                                                                                                                                                                                    
+  
+  ``` 
+  openenv validate                                                   
   docker build -t rveda-env:latest .                                                                                   
-  python check-readiness.py                                                                                            
-                                                                                                                       
-  10. Improve presentation for hackathon judging.                                                                      
-     Update README to make the project feel intentional:                                                               
-                                                                                                                       
+  python check-readiness.py  
+  ```                                                                                          
+           
+  1. Improve presentation for hackathon judging.                                                                      
++ Update README to make the project feel intentional:       
   - explain the 3 tasks and why they represent increasing difficulty                                                   
   - show action space and observation space clearly                                                                    
   - document normalized reward semantics                                                                               
   - document why info carries grader diagnostics                                                                       
-  - include a short demo flow for one task                                                                             
-                                                                                                                       
-  Execution Order                                                                                                      
-                                                                                                                       
+  - include a short demo flow for one task 
+---
+
+  ## Execution Order                                                       
   1. Session/state fix                                                                                                 
   2. Real task-specific graders                                                                                        
   3. Reward/info cleanup                                                                                               
   4. Retrieval corpus expansion                                                                                        
   5. Search upgrade                                                                                                    
   6. Tests                                                                                                             
-  7. README/demo polish                                                                                                
-  8. openenv validate, build, deploy, verify                                                                           
-                                                                                                                       
-  Recommendation                                                                                                       
-  If time is limited, do these three before anything else:                                                             
-                                                                                                                       
-  1. verify session correctness on the actual grader path
-  2. make the 3 tasks truly distinct in grading behavior                                                               
-  3. expand the database so search looks credible                                                                      
-                                                                                                                       
-  If you want, I can turn this into a concrete implementation backlog with file-by-file changes and acceptance         
-  criteria.                                                                                                            
- 
+  7. README/demo polish
+  8. openenv validate, build, deploy, verify
+---
+
+  ## Recommendation             
+  If time is limited, do these three before anything else:
+  9. verify session correctness on the actual grader path
+  10. make the 3 tasks truly distinct in grading behavior   
+  11. expand the database so search looks credible                         
+  If you want, I can turn this into a concrete implementation backlog with file-by-file changes and acceptance criteria.    
+---
+## Tags
+
+#rveda 
