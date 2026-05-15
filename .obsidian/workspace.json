@@ -25,10 +25,14 @@
             "id": "2513cd4cd6d57c1b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Coursera - Advanced Learning Algorithms/Softmax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Softmax"
             }
           }
         ],
@@ -207,6 +211,8 @@
   },
   "active": "2513cd4cd6d57c1b",
   "lastOpenFiles": [
+    "Coursera - Advanced Learning Algorithms/Softmax.md",
+    "Coursera - Advanced Learning Algorithms/Unconfirmed 646293.crdownload",
     "Coursera - Advanced Learning Algorithms/Activation Functions in Neural Networks.md",
     "Coursera - Advanced Learning Algorithms/Neural Networks - Introduction.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
@@ -234,7 +240,6 @@
     "C2_W1_Lab01_Neurons_and_Layers_Notes.md",
     "Unconfirmed 388786.crdownload",
     "gitignore.md",
-    "PLANS.md",
     "Coursera - Advanced Learning Algorithms",
     "Scaler",
     "Pasted image 20260321014452.png",
@@ -243,7 +248,6 @@
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 74681.crdownload",
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 637230.crdownload",
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 1800.crdownload",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 134651.crdownload",
-    "Coursera - Supervised Machine Learning - Regression and Classification"
+    "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 134651.crdownload"
   ]
 }
