@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "aeecfc6d6ed61c0b",
+        "id": "15d1838650da4ab2",
         "type": "tabs",
         "children": [
           {
-            "id": "642773f906e8556b",
+            "id": "baf4ff955fb6511d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Coursera - Advanced Learning Algorithms/Neural Networks - Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Neural Networks - Introduction"
+            }
+          },
+          {
+            "id": "2513cd4cd6d57c1b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,12 +205,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "642773f906e8556b",
+  "active": "2513cd4cd6d57c1b",
   "lastOpenFiles": [
-    "Coursera - Supervised Machine Learning - Regression and Classification/_Index.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Feature Scaling & Learning Rate.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression.md",
+    "Coursera - Advanced Learning Algorithms/Activation Functions in Neural Networks.md",
     "Coursera - Advanced Learning Algorithms/Neural Networks - Introduction.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function for Logistic Regression.md",
+    "Clippings/Introducing Claude Design by Anthropic Labs.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Multiple Linear Regression.md",
+    "Clippings",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/_Index.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Regression.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression with scikit learn.md",
+    "Coursera - Supervised Machine Learning - Regression and Classification/Feature Scaling & Learning Rate.md",
     "Coursera - Advanced Learning Algorithms/_Index.md",
     "Coursera - Advanced Learning Algorithms/Neural Network Layers and Computations.md",
     "Coursera - Advanced Learning Algorithms/Forward Propagation.md",
@@ -213,14 +235,7 @@
     "Unconfirmed 388786.crdownload",
     "gitignore.md",
     "PLANS.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
     "Coursera - Advanced Learning Algorithms",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Gradient Descent.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Regularization.md",
-    "Tasks.md",
-    "Scaler/Notes.md",
-    "PROMPTS.md",
-    "Rveda Environment.md",
     "Scaler",
     "Pasted image 20260321014452.png",
     "Pasted image 20260321014347.png",

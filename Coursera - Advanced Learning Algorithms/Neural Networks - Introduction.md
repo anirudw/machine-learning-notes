@@ -9,9 +9,11 @@ The performance of learning algorithms depends on the scale of data and the mode
 
 ### The Scaling Law
 * **Traditional Algorithms:** (e.g., Logistic/Linear Regression) Performance plateaus as data volume increases. They cannot effectively utilize "Big Data."
-* **Neural Networks:** * **Small NNs:** Better than traditional models but still plateau.
+* **Neural Networks:** 
+	- **Small NNs:** Better than traditional models but still plateau.
     * **Large NNs:** Performance continues to scale with more data.
-* **Enablers:** 1.  **Data:** Digitalization (Internet, mobile, IoT) has created massive datasets.
+* **Enablers:** 
+	1.  **Data**: Digitalization (Internet, mobile, IoT) has created massive datasets.
     2.  **Hardware:** Rise of **GPUs** (Graphics Processing Units), originally for graphics, now essential for parallelizing NN computations.
 
 

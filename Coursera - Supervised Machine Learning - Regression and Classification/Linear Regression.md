@@ -29,7 +29,7 @@ Example:
 
 ---
 
-## 3. Prediction Mechanism
+## 3. Prediction Mechanisms
 
 ### Algorithm: Compute Model Output
 
