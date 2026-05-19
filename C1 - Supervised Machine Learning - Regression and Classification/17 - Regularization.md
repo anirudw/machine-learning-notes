@@ -1,12 +1,12 @@
 ## Goal
-- Reduce [[Overfitting]]
+- Reduce [[16 - Overfitting|Overfitting]]
 - Penalize large parameter values
 - Improve generalization on unseen data
 
 ## Idea
 Regularization adds a penalty to the cost function so the model prefers smaller weights.
 
-## Regularized cost ([[Linear Regression]])
+## Regularized cost ([[02 - Linear Regression|Linear Regression]])
 $$
 J(w,b) = \frac{1}{2m} \sum_{i=1}^{m} (f_{w,b}(x^{(i)}) - y^{(i)})^2 + \frac{\lambda}{2m} \sum_{j=1}^{n} w_j^2
 $$
@@ -18,7 +18,7 @@ $$
 - Small `\lambda` → weak penalty, more flexible model
 - Large `\lambda` → stronger penalty, simpler model
 
-## [[Gradient Descent]] with regularization
+## [[04 - Gradient Descent|Gradient Descent]] with regularization
 
 For `j >= 1`:
 $$
@@ -30,7 +30,7 @@ $$
 b := b - \alpha \cdot \frac{1}{m} \sum_{i=1}^{m} (f_{w,b}(x^{(i)}) - y^{(i)})
 $$
 
-## [[Logistic Regression]] with regularization
+## [[10 - Logistic Regression|Logistic Regression]] with regularization
 $$
 J(w,b) = -\frac{1}{m} \sum_{i=1}^{m} \left[y^{(i)} \log(f_{w,b}(x^{(i)})) + (1-y^{(i)}) \log(1-f_{w,b}(x^{(i)}))\right] + \frac{\lambda}{2m} \sum_{j=1}^{n} w_j^2
 $$

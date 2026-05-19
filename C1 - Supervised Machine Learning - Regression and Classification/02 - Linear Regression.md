@@ -68,8 +68,8 @@ def compute_model_output(x, w, b):
 
 ## Extras
 
-- Easier Implementation through [[Linear Regression with scikit learn]]
-- Variations - [[Multiple Linear Regression]] 
+- Easier Implementation through [[08 - Linear Regression with scikit learn|Linear Regression with scikit learn]]
+- Variations - [[05 - Multiple Linear Regression|Multiple Linear Regression]] 
 
 ---
 ## Tags
