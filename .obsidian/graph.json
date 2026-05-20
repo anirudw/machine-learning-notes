@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "file:_Index",
+      "query": "file:00 Index (C2)",
       "color": {
         "a": 1,
         "rgb": 34047
@@ -53,13 +53,20 @@
       "query": "tag:#rveda  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 4403762
+      }
+    },
+    {
+      "query": "file:00 Index (C1)",
+      "color": {
+        "a": 1,
+        "rgb": 2244819
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": 0.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
@@ -67,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.30469898457095834,
-  "close": true
+  "scale": 0.3494572775340318,
+  "close": false
 }

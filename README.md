@@ -4,7 +4,7 @@ Notes and documentation repository for everything ML/AI related that I do.
 
 ---
 
-## Coursera: Supervised Machine Learning - Regression and Classification
+# Coursera: Supervised Machine Learning - Regression and Classification
 
 - Folder: [C1 - Supervised Machine Learning - Regression and Classification](<C1 - Supervised Machine Learning - Regression and Classification/>)
 - Course index: [00 Index (C1).md](<C1 - Supervised Machine Learning - Regression and Classification/00 Index (C1).md>)
@@ -37,8 +37,8 @@ Notes and documentation repository for everything ML/AI related that I do.
 
 16. [Overfitting](<C1 - Supervised Machine Learning - Regression and Classification/16 - Overfitting.md>)
 17. [Regularization](<C1 - Supervised Machine Learning - Regression and Classification/17 - Regularization.md>)
-
-## Coursera: Advanced Learning Algorithms
+---
+# Coursera: Advanced Learning Algorithms
 
 - Folder: [C2 - Advanced Learning Algorithms](<C2 - Advanced Learning Algorithms/>)
 - Course index: [00 Index (C2).md](<C2 - Advanced Learning Algorithms/00 Index (C2).md>)
@@ -82,7 +82,7 @@ Notes and documentation repository for everything ML/AI related that I do.
 
 ---
 
-## Rveda: Meta PyTorch OpenEnv Hackathon x SST
+# Rveda: Meta PyTorch OpenEnv Hackathon x SST
 
 Rveda was built for the Meta PyTorch OpenEnv Hackathon x SST. It is an OpenEnv reinforcement-learning environment for agentic medical coding, where an agent must search, inspect, and submit ICD-10 codes through an auditable workflow.
 

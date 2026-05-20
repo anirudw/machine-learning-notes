@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2 - Advanced Learning Algorithms/14 - Error Analysis.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 - Error Analysis"
+              "title": "README"
             }
           },
           {
@@ -225,6 +225,8 @@
   },
   "active": "2513cd4cd6d57c1b",
   "lastOpenFiles": [
+    "README.md",
+    "C2 - Advanced Learning Algorithms/14 - Error Analysis.md",
     "C1 - Supervised Machine Learning - Regression and Classification/17 - Regularization.md",
     "C2 - Advanced Learning Algorithms/09 - Adam Optimisation.md",
     "C2 - Advanced Learning Algorithms/08 - Softmax.md",
@@ -240,7 +242,6 @@
     "C2 - Advanced Learning Algorithms/16 - Transfer Learning.md",
     "C2 - Advanced Learning Algorithms/Unconfirmed 250335.crdownload",
     "C2 - Advanced Learning Algorithms/Unconfirmed 204070.crdownload",
-    "C2 - Advanced Learning Algorithms/14 - Error Analysis.md",
     "C2 - Advanced Learning Algorithms/15 - Adding Data.md",
     "C2 - Advanced Learning Algorithms/Unconfirmed 416987.crdownload",
     "C2 - Advanced Learning Algorithms/Unconfirmed 486520.crdownload",
@@ -249,7 +250,6 @@
     "Rveda/Rveda Environment.md",
     "Rveda/Tasks.md",
     "C2 - Advanced Learning Algorithms/Unconfirmed 119521.crdownload",
-    "README.md",
     "C2 - Advanced Learning Algorithms/11 - Back Propagation.md",
     "C2 - Advanced Learning Algorithms/10 - Convolutional Layers and Convolutional Neural Networks (CNNs).md",
     "Coursera - Advanced Learning Algorithms/Softmax.md",
