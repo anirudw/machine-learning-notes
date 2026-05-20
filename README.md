@@ -7,7 +7,7 @@ Notes and documentation repository for everything ML/AI related that I do.
 ## Coursera: Supervised Machine Learning - Regression and Classification
 
 - Folder: [C1 - Supervised Machine Learning - Regression and Classification](<C1 - Supervised Machine Learning - Regression and Classification/>)
-- Course index: [_Index.md](<C1 - Supervised Machine Learning - Regression and Classification/_Index.md>)
+- Course index: [00 Index (C1).md](<C1 - Supervised Machine Learning - Regression and Classification/00 Index (C1).md>)
 
 ### General Foundations
 
@@ -41,7 +41,7 @@ Notes and documentation repository for everything ML/AI related that I do.
 ## Coursera: Advanced Learning Algorithms
 
 - Folder: [C2 - Advanced Learning Algorithms](<C2 - Advanced Learning Algorithms/>)
-- Course index: [_Index.md](<C2 - Advanced Learning Algorithms/_Index.md>)
+- Course index: [00 Index (C2).md](<C2 - Advanced Learning Algorithms/00 Index (C2).md>)
 
 ### Neural Networks
 
@@ -59,6 +59,26 @@ Notes and documentation repository for everything ML/AI related that I do.
 ### Multiclass Classification
 
 08. [Softmax](<C2 - Advanced Learning Algorithms/08 - Softmax.md>)
+
+### Optimization and Deep Learning
+
+09. [Adam Optimisation](<C2 - Advanced Learning Algorithms/09 - Adam Optimisation.md>)
+10. [Convolutional Layers and Convolutional Neural Networks (CNNs)](<C2 - Advanced Learning Algorithms/10 - Convolutional Layers and Convolutional Neural Networks (CNNs).md>)
+11. [Back Propagation](<C2 - Advanced Learning Algorithms/11 - Back Propagation.md>)
+
+### Model Evaluation and Improvement
+
+12. [Model Selection](<C2 - Advanced Learning Algorithms/12 - Model Selection.md>)
+13. [Bias Variance Tradeoff](<C2 - Advanced Learning Algorithms/13 - Bias Variance Tradeoff.md>)
+14. [Error Analysis](<C2 - Advanced Learning Algorithms/14 - Error Analysis.md>)
+15. [Adding Data](<C2 - Advanced Learning Algorithms/15 - Adding Data.md>)
+16. [Transfer Learning](<C2 - Advanced Learning Algorithms/16 - Transfer Learning.md>)
+
+### ML Projects and Responsible AI
+
+17. [Machine Learning Project Cycle](<C2 - Advanced Learning Algorithms/17 - Machine Learning Project Cycle.md>)
+18. [Ethics](<C2 - Advanced Learning Algorithms/18 - Ethics.md>)
+19. [Precision, Recall and F1 Score](<C2 - Advanced Learning Algorithms/19 - Precision, Recall and F1 Score.md>)
 
 ---
 

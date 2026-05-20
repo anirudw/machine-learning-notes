@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2 - Advanced Learning Algorithms/16 - Transfer Learning.md",
+                "file": "C2 - Advanced Learning Algorithms/14 - Error Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 - Transfer Learning"
+              "title": "14 - Error Analysis"
             }
           },
           {
@@ -225,11 +225,23 @@
   },
   "active": "2513cd4cd6d57c1b",
   "lastOpenFiles": [
+    "C1 - Supervised Machine Learning - Regression and Classification/17 - Regularization.md",
+    "C2 - Advanced Learning Algorithms/09 - Adam Optimisation.md",
+    "C2 - Advanced Learning Algorithms/08 - Softmax.md",
+    "C2 - Advanced Learning Algorithms/06 - TensorFlow - Implementation.md",
+    "C2 - Advanced Learning Algorithms/05 - TensorFlow & Keras.md",
+    "C2 - Advanced Learning Algorithms/13 - Bias Variance Tradeoff.md",
+    "C1 - Supervised Machine Learning - Regression and Classification/00 Index (C1).md",
+    "C2 - Advanced Learning Algorithms/00 Index (C2).md",
+    "C2 - Advanced Learning Algorithms/19 - Precision, Recall and F1 Score.md",
+    "C2 - Advanced Learning Algorithms/18 - Ethics.md",
+    "C2 - Advanced Learning Algorithms/Unconfirmed 965585.crdownload",
+    "C2 - Advanced Learning Algorithms/17 - Machine Learning Project Cycle.md",
+    "C2 - Advanced Learning Algorithms/16 - Transfer Learning.md",
+    "C2 - Advanced Learning Algorithms/Unconfirmed 250335.crdownload",
+    "C2 - Advanced Learning Algorithms/Unconfirmed 204070.crdownload",
     "C2 - Advanced Learning Algorithms/14 - Error Analysis.md",
     "C2 - Advanced Learning Algorithms/15 - Adding Data.md",
-    "C2 - Advanced Learning Algorithms/16 - Transfer Learning.md",
-    "C2 - Advanced Learning Algorithms/09 - Adam Optimisation.md",
-    "C2 - Advanced Learning Algorithms/13 - Bias Variance Tradeoff.md",
     "C2 - Advanced Learning Algorithms/Unconfirmed 416987.crdownload",
     "C2 - Advanced Learning Algorithms/Unconfirmed 486520.crdownload",
     "C2 - Advanced Learning Algorithms/Unconfirmed 762148.crdownload",
@@ -238,7 +250,6 @@
     "Rveda/Tasks.md",
     "C2 - Advanced Learning Algorithms/Unconfirmed 119521.crdownload",
     "README.md",
-    "C2 - Advanced Learning Algorithms/08 - Softmax.md",
     "C2 - Advanced Learning Algorithms/11 - Back Propagation.md",
     "C2 - Advanced Learning Algorithms/10 - Convolutional Layers and Convolutional Neural Networks (CNNs).md",
     "Coursera - Advanced Learning Algorithms/Softmax.md",
@@ -248,20 +259,9 @@
     "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
     "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function for Logistic Regression.md",
     "Clippings/Introducing Claude Design by Anthropic Labs.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Multiple Linear Regression.md",
     "Clippings",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/_Index.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Logistic Regression.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Linear Regression with scikit learn.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Feature Scaling & Learning Rate.md",
-    "Coursera - Advanced Learning Algorithms/_Index.md",
-    "Coursera - Advanced Learning Algorithms/Neural Network Layers and Computations.md",
     "Unconfirmed 388786.crdownload",
-    "Coursera - Advanced Learning Algorithms",
-    "Scaler",
     "Pasted image 20260321014452.png",
-    "Pasted image 20260321014347.png",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 822429.crdownload"
+    "Pasted image 20260321014347.png"
   ]
 }
