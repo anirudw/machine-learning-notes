@@ -50,28 +50,23 @@ Current public implementation:
      Success criterion: reset -> DETAILS -> SUBMIT works reliably in one episode.                                      
   2. Convert “difficulty labels” into real graders.                                                                    
      Right now you have 3 tasks, but only 1 shared reward rule.                                                        
-     Implement per-task grader logic:
-                                                                                                                       
+     Implement per-task grader logic:                                                                                                      
   - Easy: exact code + simple family partial credit                                                                    
   - Medium: exact code + synonym/search evidence expectations                                                          
   - Hard: exact code + exclusion/conflict checks + evidence trail                                                      
     Keep all outward rewards in [0.0, 1.0].                                                                            
-    Success criterion: each task has distinct evaluation logic and deterministic expected scores.                      
-                                                                                                                       
-  3. Separate penalty signals from normalized reward.                                                                  
-     Keep reward in [0.0, 1.0], but move richer judge signals into info or observation metadata:                       
-                                                                                                                       
+    Success criterion: each task has distinct evaluation logic and deterministic expected scores.                                                                                                                          
+  1. Separate penalty signals from normalized reward.                                                                  
+     Keep reward in [0.0, 1.0], but move richer judge signals into info or observation metadata:                                                                                                       
   - excludes1_penalty                                                                                                  
   - insufficient_evidence                                                                                              
   - wrong_family                                                                                                       
   - used_search                                                                                                        
-    This preserves compliance while still giving useful grading signals.                                               
-                                                                                                                       
-  4. Strengthen the retrieval layer.                                                                                   
+    This preserves compliance while still giving useful grading signals.                                                                                          
+  1. Strengthen the retrieval layer.                                                                                   
      The current DB/corpus is too small for convincing medical behavior.                                               
      Expand data/icd10.db or regenerate it from a much richer source.                                                  
-     At minimum, add coverage for:                                                                                     
-                                                                                                                       
+     At minimum, add coverage for:                                                                                                             
   - hypertension                                                                                                       
   - blood pressure                                                                                                     
   - epistaxis                                                                                                          
@@ -90,14 +85,12 @@ Current public implementation:
                                                                                                                        
   6. Make task reset deterministic and testable.                                                                       
      Expose task selection cleanly and verify it works over the actual deployed interface.                             
-     Use task IDs consistently:                                                                                        
-                                                                                                                       
+     Use task IDs consistently                                                                                                   
   - easy_endo_1                                                                                                        
   - medium_endo_1                                                                                                      
   - hard_cardio_1                                                                                                      
-    Success criterion: each task can be targeted and scored predictably in tests and demos.                            
-                                                                                                                       
-  7. Align API contract with grader expectations.                                                                      
+    Success criterion: each task can be targeted and scored predictably in tests and demos.                                                                                                   
+  1. Align API contract with grader expectations.                                                                      
      Keep /step returning exactly                                                                                                               
   - observation                                                                                                        
   - reward                                                                                                             

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C2 - Advanced Learning Algorithms/08 - Softmax.md",
+                "file": "C2 - Advanced Learning Algorithms/12 - Model Selection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - Softmax"
+              "title": "12 - Model Selection"
             }
           }
         ],
@@ -225,6 +225,12 @@
   },
   "active": "a80581bace77b9d4",
   "lastOpenFiles": [
+    "Rveda/Rveda Environment.md",
+    "Rveda/Tasks.md",
+    "C2 - Advanced Learning Algorithms/12 - Model Selection.md",
+    "C2 - Advanced Learning Algorithms/Unconfirmed 119521.crdownload",
+    "README.md",
+    "C2 - Advanced Learning Algorithms/08 - Softmax.md",
     "C2 - Advanced Learning Algorithms/11 - Back Propagation.md",
     "C2 - Advanced Learning Algorithms/10 - Convolutional Layers and Convolutional Neural Networks (CNNs).md",
     "C2 - Advanced Learning Algorithms/09 - Adam Optimisation.md",
@@ -248,11 +254,6 @@
     "Rveda/PROMPTS.md",
     "Rveda/Notes.md",
     "Coursera - Advanced Learning Algorithms/Numpy Implementation for Neural Networks.md",
-    "Coursera - Advanced Learning Algorithms/TensorFlow - Implementation.md",
-    "Coursera - Advanced Learning Algorithms.md",
-    "Rveda/Rveda Environment.md",
-    "Rveda/Tasks.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Classification - Introduction.md",
     "Unconfirmed 388786.crdownload",
     "Coursera - Advanced Learning Algorithms",
     "Scaler",
@@ -261,7 +262,6 @@
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 822429.crdownload",
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 74681.crdownload",
     "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 637230.crdownload",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 1800.crdownload",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 134651.crdownload"
+    "Coursera - Supervised Machine Learning - Regression and Classification/Unconfirmed 1800.crdownload"
   ]
 }
