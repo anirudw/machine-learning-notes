@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "C2 - Advanced Learning Algorithms/22 - Information Gain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "22 - Information Gain"
             }
           },
           {
@@ -225,6 +225,11 @@
   },
   "active": "2513cd4cd6d57c1b",
   "lastOpenFiles": [
+    "C2 - Advanced Learning Algorithms/21 - Entropy in Decision Trees.md",
+    "C2 - Advanced Learning Algorithms/22 - Information Gain.md",
+    "C2 - Advanced Learning Algorithms/Unconfirmed 230406.crdownload",
+    "C2 - Advanced Learning Algorithms/20 - Decision Trees.md",
+    "C2 - Advanced Learning Algorithms/Unconfirmed 161307.crdownload",
     "README.md",
     "C2 - Advanced Learning Algorithms/14 - Error Analysis.md",
     "C1 - Supervised Machine Learning - Regression and Classification/17 - Regularization.md",
@@ -256,11 +261,6 @@
     "Coursera - Advanced Learning Algorithms/Unconfirmed 646293.crdownload",
     "Coursera - Advanced Learning Algorithms/Activation Functions in Neural Networks.md",
     "Coursera - Advanced Learning Algorithms/Neural Networks - Introduction.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function.md",
-    "Coursera - Supervised Machine Learning - Regression and Classification/Cost Function for Logistic Regression.md",
-    "Clippings/Introducing Claude Design by Anthropic Labs.md",
-    "Clippings",
-    "Unconfirmed 388786.crdownload",
     "Pasted image 20260321014452.png",
     "Pasted image 20260321014347.png"
   ]
