@@ -1,0 +1,2 @@
+1. [[Dynamic Feedback Loops in RSs]] - Dynamic feedback loops in recommender systems: Analyzing fairness, popularity bias, and user group disparities (Yildiz Zoralioglu  ·  Emre Yalcin)
+2. [[Causal Disentanglement for Tackling Popularity Bias in Sequential Recommendation]] -  Causal Disentanglement for Tackling Popularity Bias in Sequential Recommendation ( An-An Liu  Yadong Zhao , Xin Wen , Rihao Chang , and Weizhi Ni )
