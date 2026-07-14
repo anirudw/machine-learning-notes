@@ -2,9 +2,16 @@
 
 Notes and documentation repository for everything ML/AI related that I do.
 
+## Index
+
+- [Coursera: Supervised Machine Learning - Regression and Classification](#coursera-supervised-machine-learning---regression-and-classification)
+- [Coursera: Advanced Learning Algorithms](#coursera-advanced-learning-algorithms)
+- [Bias in Recommender Systems](#bias-in-recommender-systems)
+- [Rveda: Meta PyTorch OpenEnv Hackathon x SST](#rveda-meta-pytorch-openenv-hackathon-x-sst)
+
 ---
 
-# Coursera: Supervised Machine Learning - Regression and Classification
+## Coursera: Supervised Machine Learning - Regression and Classification
 
 - Folder: [C1 - Supervised Machine Learning - Regression and Classification](<C1 - Supervised Machine Learning - Regression and Classification/>)
 - Course index: [00 Index (C1).md](<C1 - Supervised Machine Learning - Regression and Classification/00 Index (C1).md>)
@@ -37,8 +44,10 @@ Notes and documentation repository for everything ML/AI related that I do.
 
 16. [Overfitting](<C1 - Supervised Machine Learning - Regression and Classification/16 - Overfitting.md>)
 17. [Regularization](<C1 - Supervised Machine Learning - Regression and Classification/17 - Regularization.md>)
+
 ---
-# Coursera: Advanced Learning Algorithms
+
+## Coursera: Advanced Learning Algorithms
 
 - Folder: [C2 - Advanced Learning Algorithms](<C2 - Advanced Learning Algorithms/>)
 - Course index: [00 Index (C2).md](<C2 - Advanced Learning Algorithms/00 Index (C2).md>)
@@ -80,12 +89,38 @@ Notes and documentation repository for everything ML/AI related that I do.
 18. [Ethics](<C2 - Advanced Learning Algorithms/18 - Ethics.md>)
 19. [Precision, Recall and F1 Score](<C2 - Advanced Learning Algorithms/19 - Precision, Recall and F1 Score.md>)
 
+### Decision Trees and Tree Ensembles
+
+20. [Decision Trees](<C2 - Advanced Learning Algorithms/20 - Decision Trees.md>)
+21. [Entropy in Decision Trees](<C2 - Advanced Learning Algorithms/21 - Entropy in Decision Trees.md>)
+22. [Information Gain](<C2 - Advanced Learning Algorithms/22 - Information Gain.md>)
+23. [Decision Trees for Continuous Features](<C2 - Advanced Learning Algorithms/23 - Decision Trees for Continuous Features.md>)
+24. [Regression Trees](<C2 - Advanced Learning Algorithms/24 - Regression Trees.md>)
+25. [Decision Trees II](<C2 - Advanced Learning Algorithms/25 - Decision Trees II.md>)
+26. [Tree Ensembles](<C2 - Advanced Learning Algorithms/26 - Tree Ensembles.md>)
+27. [Sampling with Replacement](<C2 - Advanced Learning Algorithms/27 - Sampling with Replacement.md>)
+28. [Random Forest & XGBoost](<C2 - Advanced Learning Algorithms/28 - Random Forest & XGBoost.md>)
+
 ---
 
-# Rveda: Meta PyTorch OpenEnv Hackathon x SST
+## Bias in Recommender Systems
+
+- Folder: [Bias in Recommender Systems](<Bias in Recommender Systems/>)
+- [Causal Disentanglement for Tackling Popularity Bias in Sequential Recommendation](<Bias in Recommender Systems/Causal Disentanglement for Tackling Popularity Bias in Sequential Recommendation.md>)
+- [Dynamic Feedback Loops in RSs](<Bias in Recommender Systems/Dynamic Feedback Loops in RSs.md>)
+- [Paper Reviews](<Bias in Recommender Systems/Paper Reviews.md>)
+- [Reading list](<Bias in Recommender Systems/Reading list.md>)
+
+---
+
+## Rveda: Meta PyTorch OpenEnv Hackathon x SST
 
 Rveda was built for the Meta PyTorch OpenEnv Hackathon x SST. It is an OpenEnv reinforcement-learning environment for agentic medical coding, where an agent must search, inspect, and submit ICD-10 codes through an auditable workflow.
 
+- Folder: [Rveda](<Rveda/>)
+- [Notes](<Rveda/Notes.md>)
+- [PROMPTS](<Rveda/PROMPTS.md>)
 - [Rveda Environment](<Rveda/Rveda Environment.md>)
+- [Tasks](<Rveda/Tasks.md>)
 - GitHub: https://github.com/anirudw/rveda
 - Hugging Face Space: https://huggingface.co/spaces/anirudw/rveda
