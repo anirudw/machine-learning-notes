@@ -1,6 +1,6 @@
 # Rveda Hackathon Backlog and Validation Notes
 
-Canonical mental model and implementation map: [Rveda Environment](<Rveda Environment.md>)
+Canonical mental model and implementation map: [Rveda Environment](Rveda%20Environment.md)
 
 Context: Rveda was built for the Meta PyTorch OpenEnv Hackathon x SST as a real-world OpenEnv environment for agentic medical coding.
 

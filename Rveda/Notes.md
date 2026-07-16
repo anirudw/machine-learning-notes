@@ -1,6 +1,6 @@
 # Rveda Hackathon Quick Runtime Notes
 
-Canonical project documentation: [Rveda Environment](<Rveda Environment.md>)
+Canonical project documentation: [Rveda Environment](Rveda%20Environment.md)
 
 Rveda was built for the Meta PyTorch OpenEnv Hackathon x SST. These are the short runtime notes for rebuilding and checking the environment.
 
